@@ -1,0 +1,74 @@
+[
+	{
+		"file": "C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\Source\\Pong\\Ball.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\.vscode\\compileCommands_Default\\Pong.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\Source\\Pong\\Ball.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\.vscode\\compileCommands_Default\\Pong.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\Source\\Pong\\Paddle.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\.vscode\\compileCommands_Default\\Pong.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\Source\\Pong\\Paddle.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\.vscode\\compileCommands_Default\\Pong.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\Source\\Pong\\Pong.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\.vscode\\compileCommands_Default\\Pong.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\Source\\Pong\\Pong.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\.vscode\\compileCommands_Default\\Pong.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\Source\\Pong\\Pong.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\.vscode\\compileCommands_Default\\Pong.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\Source\\Pong\\ScoreZone.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\.vscode\\compileCommands_Default\\Pong.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\Source\\Pong\\ScoreZone.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\.vscode\\compileCommands_Default\\Pong.1.rsp"
+		],
+		"directory": "C:\\Program Files\\UE_5.5\\Engine\\Source"
+	}
+]

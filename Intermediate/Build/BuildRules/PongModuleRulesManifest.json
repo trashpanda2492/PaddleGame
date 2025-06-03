@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\Source\\Pong\\Pong.Build.cs",
+		"C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\Source\\Pong.Target.cs",
+		"C:\\Users\\poked\\Documents\\Unreal Projects\\Pong\\Source\\PongEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}
